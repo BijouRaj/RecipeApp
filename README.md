@@ -7,18 +7,20 @@
 
 <h2 id="examples">🖼️ Examples</h2>
 
-<img src="images/two-pizzas.jpg" width="100%">
+- Standard Recipe
+
+<br/><br/>
+![Standard Recipe](https://private-user-images.githubusercontent.com/155038834/329458482-27aaa009-4637-42ee-be2e-3099efe0c165.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUzMTU5OTMsIm5iZiI6MTcxNTMxNTY5MywicGF0aCI6Ii8xNTUwMzg4MzQvMzI5NDU4NDgyLTI3YWFhMDA5LTQ2MzctNDJlZS1iZTJlLTMwOTllZmUwYzE2NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxMFQwNDM0NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZmQ0NTcwMDBiZTQ5YjYwNmJmYjhkZjA2NzBkYWM1NWQ5NTY0OTg2NGNlMzRiZWJlYTYyMWFlOTU1ZDdlMzk2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.HqJW6PkfPLVQJmNQudW99zP5I6vXb3RYuqQNqG5-rqE)
+
+</i></a></li>
+
+- Nonstandard Recipe
+<br/><br/>
+
+![Nonstandard Recipe](
 </i></a></li>
 
 <br/><br/>
-
-<img src="images/four-italian-dishesjpg.jpg" width="100%">
-</i></a></li>
-
-<br/><br/>
-
-<img src="images/five-drinks.jpg" width="100%">
-</i></a></li>
 
 <h2 id="technologies">⚙️ Technologies</h2>
 
